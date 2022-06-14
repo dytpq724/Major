@@ -1,0 +1,28 @@
+.form_add{
+    width : 100%;
+    padding : 10px; 
+    border : 1px solid;
+}
+.box_major{
+    width : 100%;
+    padding : 10px; 
+    border-top : 1px ridge;
+    border-bottom : 1px ridge;
+    cursor: pointer;
+}
+.add_button{
+    margin-bottom: 10px;
+}
+.add_button > button{
+    padding: 10px;
+    color: white;
+    background-color: rgb(14, 91, 91);
+    border: none;
+}
+.box_major > button{
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    background-color : rgb(186, 70, 70);
+    border: none;
+}

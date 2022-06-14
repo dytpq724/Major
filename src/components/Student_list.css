@@ -1,0 +1,61 @@
+.form_add{
+    width : 100%;
+    padding : 10px; 
+    border : 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+}
+.form_add > label > input{
+    width: 200px;
+    height: 30px;
+    font-size: 14px;
+}
+.form_add > label{
+    margin-bottom: 5px;
+}
+.form_add > h3{
+    margin-bottom: 10px;
+}
+.form_add > div:last-child >button{
+    padding: 10px;
+    margin: 5px;
+    background-color: burlywood;
+    color: white;   
+    border: none;
+}
+.form_add > div:last-child >button:last-child{
+    background-color: rgb(111, 111, 220);
+}
+.radio_div > label{
+    padding: 10px;
+}
+
+.select_div > select{
+    width: 200px;
+    height: 30px;
+}
+.box_student{
+    width : 100%;
+    padding : 10px; 
+    border-top : 1px ridge;
+    border-bottom : 1px ridge;
+    cursor: pointer;
+}
+.add_button{
+    margin-bottom: 10px;
+}
+.add_button > button{
+    padding: 10px;
+    color: white;
+    background-color: rgb(14, 91, 91);
+    border: none;
+}
+.box_student > button{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    background-color : rgb(186, 70, 70);
+    border: none;
+}
